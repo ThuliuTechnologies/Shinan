@@ -1,4 +1,4 @@
-検索エンジン Shinan Ver.4.1
+ 検索エンジン Shinan Ver.4.1
 ====
 Overview
 ---
@@ -38,10 +38,11 @@ Overview
 
 ver.4.1よりタグ付けとタグ検索が可能になりました。
 また、ローカル環境で検索は利用できません。
+#### [Shinan - Thuliu Technologies](http://thuliu.webcrow.jp/ja/shinan.html)も併せて参照してください。
 
 ## Licence
 * Licenced MIT
 <https://opensource.org/licenses/mit-license.php>
 
-##Copyright
+## Copyright
 * Copyright (c) 2016 Thuliu Technologies.
