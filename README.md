@@ -41,7 +41,7 @@ ver.4.1よりタグ付けとタグ検索が可能になりました。
 #### [Shinan - Thuliu Technologies](http://thuliu.webcrow.jp/ja/shinan.html)も併せて参照してください。
 
 ## Licence
-* Licenced MIT
+* Licenced MIT (データ自動作成ソフトを除く)
 <https://opensource.org/licenses/mit-license.php>
 
 ## Copyright
